@@ -10,6 +10,7 @@ namespace HelloWorldApp.Controllers
     {
         public IActionResult Index()
         {
+            Console.WriteLine("Test");
             return View();
         }
 

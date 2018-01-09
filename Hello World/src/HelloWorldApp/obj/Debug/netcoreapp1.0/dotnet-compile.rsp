@@ -1,5 +1,5 @@
---temp-output:C:\Nilesh\GIT PoC\GitRepoDemo\Hello World\src\HelloWorldApp\obj\Debug\netcoreapp1.0\
---out:C:\Nilesh\GIT PoC\GitRepoDemo\Hello World\src\HelloWorldApp\bin\Debug\netcoreapp1.0\HelloWorldApp.dll
+--temp-output:C:\Nilesh\GIT PoC\TortoiseGit\Repo1\Tortoise\GITHUB\GitRepoDemo\Hello World\src\HelloWorldApp\obj\Debug\netcoreapp1.0\
+--out:C:\Nilesh\GIT PoC\TortoiseGit\Repo1\Tortoise\GITHUB\GitRepoDemo\Hello World\src\HelloWorldApp\bin\Debug\netcoreapp1.0\HelloWorldApp.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -196,7 +196,7 @@
 --reference:C:\Users\nileschi\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\nileschi\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\nileschi\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"C:\Nilesh\GIT PoC\GitRepoDemo\Hello World\src\HelloWorldApp\obj\Debug\netcoreapp1.0\HelloWorldAppdotnet-compile.deps.json",HelloWorldApp.deps.json
-C:\Nilesh\GIT PoC\GitRepoDemo\Hello World\src\HelloWorldApp\Program.cs
-C:\Nilesh\GIT PoC\GitRepoDemo\Hello World\src\HelloWorldApp\Startup.cs
-C:\Nilesh\GIT PoC\GitRepoDemo\Hello World\src\HelloWorldApp\Controllers\HomeController.cs
+--resource:"C:\Nilesh\GIT PoC\TortoiseGit\Repo1\Tortoise\GITHUB\GitRepoDemo\Hello World\src\HelloWorldApp\obj\Debug\netcoreapp1.0\HelloWorldAppdotnet-compile.deps.json",HelloWorldApp.deps.json
+C:\Nilesh\GIT PoC\TortoiseGit\Repo1\Tortoise\GITHUB\GitRepoDemo\Hello World\src\HelloWorldApp\Program.cs
+C:\Nilesh\GIT PoC\TortoiseGit\Repo1\Tortoise\GITHUB\GitRepoDemo\Hello World\src\HelloWorldApp\Startup.cs
+C:\Nilesh\GIT PoC\TortoiseGit\Repo1\Tortoise\GITHUB\GitRepoDemo\Hello World\src\HelloWorldApp\Controllers\HomeController.cs
